@@ -1,5 +1,5 @@
 <h1 align="left">Olá,👋, eu sou Alberto Palmeira</h1>
-<h3 align="left">Um programador frontend apaixonado por aprender.</h3><br>
+<h3 align="left">Um programador frontend apaixonado por aprender.</h3>
 
 - 🔭 Estou a vias de começar **curso de Sistemas de Computação da UFF.**
 
